@@ -15,4 +15,3 @@ def save_profile(sender, instance, **kwargs):
     instance.profile.save()
 
 
-
